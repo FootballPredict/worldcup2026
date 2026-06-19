@@ -1,0 +1,4 @@
+interface:
+  display_name: "2026世界杯预测助手"
+  short_description: "推理预测2026世界杯比赛与赛事答疑"
+  default_prompt: "使用 $worldcup-2026-predictor 预测2026世界杯美国vs澳大利亚的比分。"
